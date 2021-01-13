@@ -33,13 +33,6 @@ progress::-webkit-progress-value {
     background: #2bff00;
 }
 
-#header {
-    background-color: #4553a5;
-    color: #303c7e;
-    text-align: left;
-    font-size: 18px;
-}
-
 #ada {
     background-color: #5d6eca;
     text-align: center;
@@ -51,19 +44,6 @@ progress::-webkit-progress-value {
     margin-top: 100px;
     margin-left: 400px;
     margin-right: 400px;
-}
-
-#sc {
-    color: #303c7e;
-    text-decoration: none;
-}
-
-#sc:hover {
-    color: #404979;
-}
-
-#sc:active {
-    color: #090c1a;
 }
 
 .bp {
