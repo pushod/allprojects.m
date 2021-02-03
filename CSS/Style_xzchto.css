@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px; text-align: center;
+}
+
+table {
+    border-collapse:collapse; 
+    border:1px solid lightgrey;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.tr_first {
+    background-color:Olive;
+    color:white;
+    border:1px solid lightgrey
+}
+
+.tr_second {
+    border:1px solid lightgrey;
+}
+
+.game{
+    background-color:Olive;
+    color:white;
+    padding: 5px;
+}
+
+.team{
+    background-color:burlywood;
+    border:1px solid lightgrey;
+    padding: 5px;
+}
+
+img{
+    width: 30px;
+    height: 30px;
+}
+
+.td_date{
+    background-color:burlywood;
+    padding: 5px;
+}
+
+.score{
+    padding: 5px;
+}
+
+.rtr{
+    border:1px solid lightgrey;
+    padding: 5px;
+}
