@@ -1,0 +1,97 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 3px solid blue;
+    border-radius: 5px;
+    padding-bottom: 6px;
+}
+
+.bh {
+    color: white;
+    text-decoration: none;
+    border: 1px solid darkblue;
+    background-color: darkblue;
+    border-radius: 6px;
+    padding: 2px;
+}
+
+.bhe {
+    color: #2b3a69;
+}
+
+h1{
+    border: 1px solid #68c49a;
+    background-color: #68c49a;
+    border-radius: 4px;
+    color: teal;
+    text-align: center;
+}
+
+footer p {
+    background-color: white;
+}
+
+footer {
+    padding: 10px;
+    background-color: #f8c4fa;
+}
+
+nav a {
+    text-decoration: none;
+    color: #214767;
+    font-size: 18px;
+    border: 1px solid black;
+    background-color: #afff;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+nav {
+    border: 3px solid #a8a842;
+    border-radius: 6px;
+    padding-left: 30px;
+    margin-top: 10px;
+    padding-right: 30px;
+    text-align: center;
+}
+
+.z {
+    border: 1px solid #e2005e;
+    border-radius: 5px;
+    background-color: #e2005e;
+    font-size: 20px;
+}
+
+.z img {
+    padding: 5px;
+}
+
+.podarki {
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#discount {
+    color:blue;
+}
+
+#delivery {
+    color:blue;
+}
+
+.n {
+    text-decoration: none;
+    padding: 3px;
+    border: 3px solid greenyellow;
+    border-radius:5px;
+}
+
+.optom {
+    color: blue;
+}
+
+.o_nas {
+    color: blue;
+}
