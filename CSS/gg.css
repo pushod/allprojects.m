@@ -82,3 +82,7 @@ footer p {
 header,nav,.info,footer {
     display: flex;
 }
+
+a {
+    display: block;   
+}
